@@ -1,0 +1,27 @@
+.styled_CarouselContainer__4qiZB {
+  background-color: var(--background-color);
+  text-align: center;
+  max-width: 1200px;
+  margin: auto;
+}
+.styled_HeadlineContainer__HpSK3 {
+  padding: 12px 0;
+  text-align: center;
+  background-color: var(--background-color);
+  color: #333;
+}
+.styled_HeadlineContainer__HpSK3 a {
+  color: inherit;
+  display: inline-block;
+  padding: 4px;
+}
+.styled_HeadlineContainer__HpSK3 a:hover {
+  color: inherit;
+}
+.styled_HeadlineContainer__HpSK3 a:focus {
+  color: inherit;
+  outline: dashed;
+}
+.styled_HeadlineContainer__HpSK3 a:visited {
+  color: inherit;
+}

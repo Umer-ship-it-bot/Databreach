@@ -1,0 +1,17 @@
+.styles_ShopAllTile__6UQLh {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+  border-radius: 8px;
+  height: 372px;
+  width: 125px;
+  background-color: #f7f7f7;
+}
+@media (min-width: 768px) {
+  .styles_ShopAllTile__6UQLh {
+    width: 184px;
+    height: 373px;
+  }
+}

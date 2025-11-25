@@ -1,0 +1,36 @@
+.styles_productCardVariantPdpWrapper__6hnUq {
+  background-color: var(--color-background-base);
+  text-align: center;
+  padding: var(--space-padding-container-md) var(--space-padding-container-md)
+    var(--space-padding-container-lg);
+  display: flex;
+  flex-direction: column;
+}
+.styles_metaWrapper__xjmaK {
+  margin-top: auto;
+}
+.styles_base__r5yG6 img {
+  border: 1px solid var(--color-icon-disabled);
+  margin-right: 3px;
+}
+.styles_circle__3krng img {
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+}
+.styles_square__FLZJw img {
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.styles_buttonSectionWrapper__Ysa8E {
+  align-items: flex-end;
+}
+.styles_itemInfoWrapper__BRPUj {
+  margin-left: var(--space-margin-section-md);
+}
+@media (min-width: 480px) {
+  .styles_itemInfoWrapper__BRPUj {
+    margin-right: var(--space-margin-section-md);
+  }
+}

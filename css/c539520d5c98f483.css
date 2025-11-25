@@ -1,0 +1,75 @@
+.styles_bulletedList__BMfKK {
+  margin-left: 16px;
+}
+.styles_bulletedListItem__TCUEL {
+  margin-bottom: 8px;
+  list-style-type: disc;
+}
+.styles_reviewSummarizationOverallSummary__yoPcC {
+  font-size: 14px;
+}
+.styles_reviewSummarizationWrapper__oIf5m {
+  padding: 12px;
+}
+@media (min-width: 668px) {
+  .styles_reviewSummarizationWrapper__oIf5m {
+    padding: 0;
+  }
+}
+.styles_arrowIconUp__LFTu9 {
+  transform: rotate(180deg);
+}
+.styles_secondaryRating__dJmY_ {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 12px;
+  padding: 4px;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  justify-content: space-evenly;
+}
+@media (min-width: 668px) {
+  .styles_secondaryRating__dJmY_ {
+    justify-content: start;
+    gap: 12px 32px;
+  }
+}
+.styles_secondaryRatingLabel__k3LwO {
+  text-transform: capitalize;
+  font-weight: 700;
+}
+.styles_secondaryRatingItem__WXSkB {
+  display: flex;
+  flex-direction: column;
+}
+.styles_productCardExtendedContentContainer__bVhjn {
+  display: flex;
+  padding: 4px 8px;
+  flex-direction: column;
+  background-color: #f7f7f7;
+  font-size: 14px;
+  max-height: 320px;
+  overflow-y: auto;
+}
+@media (min-width: 668px) {
+  .styles_productCardExtendedContentContainer__bVhjn {
+    gap: 12px;
+    padding: 16px 16px 0;
+  }
+}
+.styles_summaryHeading__kq3fI {
+  margin: 0;
+}
+.styles_summaryHeadingBreak__7gUDT {
+  border-bottom: 1px solid #d6d6d6;
+}
+.styles_emptyContentFallbackContainer__Tqhpu {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  column-gap: 16px;
+}
+.styles_sellerLinkWrapper___CRUX {
+  line-height: 1.1;
+}

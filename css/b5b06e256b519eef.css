@@ -1,0 +1,6 @@
+.styles_slotRenderer__XUUq0 > :empty {
+  display: none;
+}
+.styles_slotRenderer__XUUq0 > :has([data-slot-empty="true"]) {
+  display: none;
+}

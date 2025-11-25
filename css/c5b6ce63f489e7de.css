@@ -1,0 +1,115 @@
+.styles_bannerWrapper__LojX3 {
+  position: relative;
+  z-index: 0;
+  display: block;
+  overflow: hidden;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-bottom: var(--margin-bottom);
+  line-height: 1;
+  background-color: var(--bg-color, #333);
+  border-radius: var(--corners-rounded-border-radius);
+}
+@media (max-width: 1200px) {
+  .styles_bannerWrapper__LojX3 {
+    margin-left: var(--corners-rounded-margin-left);
+    margin-right: var(--corners-rounded-margin-right);
+  }
+}
+.styles_bannerWrapper__LojX3 .styles_bannerText__smva9 {
+  color: var(--text-color);
+  justify-content: center;
+  text-align: center;
+  padding: 12px 0 var(--padding-bottom, 12px);
+}
+.styles_bannerWrapper__LojX3 .styles_bannerHeadline__W1yMx {
+  margin-bottom: 4px;
+  padding-bottom: 0;
+}
+.styles_bannerWrapper__LojX3 .styles_bannerLink__sLQLu {
+  display: block;
+  color: var(--text-color);
+}
+.styles_bannerWrapper__LojX3 .styles_bannerLink__sLQLu:focus {
+  outline-offset: -3px;
+}
+@media (min-width: 0) {
+  .styles_flexTextBigHeadline__zGp_M {
+    font-size: 7.32421875vw;
+  }
+}
+@media (min-width: 668px) {
+  .styles_flexTextBigHeadline__zGp_M {
+    font-size: 4.3857634731vw;
+  }
+}
+@media (min-width: 992px) {
+  .styles_flexTextBigHeadline__zGp_M {
+    font-size: 2.9533165323vw;
+  }
+}
+@media (min-width: 1200px) {
+  .styles_flexTextBigHeadline__zGp_M {
+    font-size: 36.6211px;
+  }
+}
+@media (min-width: 0) {
+  .styles_flexTextBigDetail__2RwdP {
+    font-size: 4.6875vw;
+  }
+}
+@media (min-width: 668px) {
+  .styles_flexTextBigDetail__2RwdP {
+    font-size: 2.8068862275vw;
+  }
+}
+@media (min-width: 992px) {
+  .styles_flexTextBigDetail__2RwdP {
+    font-size: 1.8901209677vw;
+  }
+}
+@media (min-width: 1200px) {
+  .styles_flexTextBigDetail__2RwdP {
+    font-size: 23.4375px;
+  }
+}
+@media (min-width: 0) {
+  .styles_flexTextSmallHeadline__tYIAv {
+    font-size: 3.75vw;
+  }
+}
+@media (min-width: 668px) {
+  .styles_flexTextSmallHeadline__tYIAv {
+    font-size: 2.245508982vw;
+  }
+}
+@media (min-width: 992px) {
+  .styles_flexTextSmallHeadline__tYIAv {
+    font-size: 1.5120967742vw;
+  }
+}
+@media (min-width: 1200px) {
+  .styles_flexTextSmallHeadline__tYIAv {
+    font-size: 18.75px;
+  }
+}
+@media (min-width: 0) {
+  .styles_flexTextSmallDetail__WG5QH {
+    font-size: 3.75vw;
+  }
+}
+@media (min-width: 668px) {
+  .styles_flexTextSmallDetail__WG5QH {
+    font-size: 1.7964071856vw;
+  }
+}
+@media (min-width: 992px) {
+  .styles_flexTextSmallDetail__WG5QH {
+    font-size: 1.2096774194vw;
+  }
+}
+@media (min-width: 1200px) {
+  .styles_flexTextSmallDetail__WG5QH {
+    font-size: 15px;
+  }
+}
